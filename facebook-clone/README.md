@@ -2,7 +2,6 @@
 
 ## Commands Used
 
-```bash
 cd ~/projects/facebook-clone
 python3 -m venv venv
 source venv/bin/activate

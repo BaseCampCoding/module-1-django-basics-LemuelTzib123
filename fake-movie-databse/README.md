@@ -2,7 +2,6 @@
 
 ## Commands Used
 
-```bash
 cd ~/projects/fake-movie-database
 python3 -m venv venv
 source venv/bin/activate
